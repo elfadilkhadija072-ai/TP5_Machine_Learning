@@ -1,0 +1,4 @@
+venv_tp5/
+__pycache__/
+*.h5
+.DS_Store
